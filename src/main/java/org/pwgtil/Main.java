@@ -2,6 +2,8 @@ package org.pwgtil;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        /*
+        * Not relevant.We're interested in tests
+        * */
     }
 }
