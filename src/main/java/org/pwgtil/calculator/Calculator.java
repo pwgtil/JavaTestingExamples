@@ -19,4 +19,12 @@ public class Calculator {
         }
         return a / b;
     }
+
+    public int maxOf(int a, int b) {
+        return Math.max(a, b);
+    }
+
+    public boolean isEven(int a) {
+        return a % 2 == 0;
+    }
 }
